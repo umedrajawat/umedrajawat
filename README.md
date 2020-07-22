@@ -1,16 +1,20 @@
-### Hi there 👋
+# About [`particles-bg`](https://github.com/lindelof/particles-bg) library
+#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
 
-<!--
-**umedrajawat/umedrajawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Run Project
+### 1. Clone the project
+
+### 2. Run the project
+```shell
+npm i
+npm start
+```
+
+### 3. BUild
+```shell
+npm run build
+```

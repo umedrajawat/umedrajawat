@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Kumar Umed Rajawat",
+    "description":"I am an infosec enthusiast, a passionate FullStack Developer and an avid open source contributor.I have Worked extensively on react.js, node.js, AWS services, building REST APIs, Chrome APIs and building serverless architecture during my internship.",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"Contact me :",
+    "email": "umedrajawat26@gmail.com",
+    "phone": "+91 8310241212",
+    "github":"https://github.com/umedrajawat",
+    "project":"https://github.com/umedrajawat",
+    "address":{
+      "street":"Bull Temple ROAD",
+      "city":"Bangalore",
+      "state":"Karnataka",
+      "zip": "560019"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"kumar_Umed_Rajawat.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/umed-rajawat-5b4268129/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/umedrajawat",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"BMS COLLEGE OF ENGINEERING, BANGALORE",
+        "degree":"B.E IN INFORMATION SCIENCE ENGINEERING",
+        "graduated":"AUGUST 2020"
+      },
+      {
+        "school":"ST. MICHAELS HIGH SCHOOL, PATNA",
+        "degree":"CBSE 12TH",
+        "graduated":"March 2016"
+      },
+      {
+        "school":"DELHI PUBLIC SCHOOL, PATNA",
+        "degree":"CBSE 10TH",
+        "graduated":"March 2014"
+      }
+    ],
+    "work":[
+      {
+        "company":"Kickdrum Technology",
+        "title":"FullStack Developer Intern",
+        "years":"Jan 2020-July 2020",
+       "description":"Worked on creating a distributed notes-audio sync tool that allows for real-time, simultaneous note-taking by multiple users to be synced to audio recordings across multiple sessions onj a Google document. Worked extensively on react.js, node.js, AWS services, building REST APIs, Chrome APIs and building serverless architecture during my internship" 
+      }
+    ],
+    "skills":[
+      {
+        "name":"Languages ( JAVA, Javascript, C, C++, Python)"
+      },
+      {
+        "name":"Backend ( Node.js, JAVA , Hibernate, Spring Eco-system, JDBC, SQL, REST APIs )"
+
+      },
+      {
+        "name":"Frontend ( React.js, Html, CSS, SASS, Javascript )"
+      
+      },
+      {
+        "name":"Cloud Technologies ( AWS Lambdas, AWS IAM, SNS, AWS Cognito, Amazon S3, Amazon EC2, DynamoDB, AWS CodeBuild, AWS CodePipeline )"
+  
+      },
+      {
+        "name":"Data Structures and Algorithms"
+     
+      },
+      {
+        "name":"Git version control"
+   
+      },
+      {
+        "name":"Chrome Extensions Development (Google Drive APIs, Chrome APIs) "
+      },
+      {
+        "name":"RDBMS"
+    
+      },
+      {
+        "name":"MediaStream Recording API"
+ 
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"IN-MEMORYCACHE",
+        "category":"Implemented a cache for faster accessing of location",
+        "image":"cleaning.jpg",
+        "url":"https://github.com/umedrajawat/inmemory-cache"
+      },
+      {
+        "title":"MOVIE RECOMMENDATION SYSTEM WITH MODEL EXPLAINABILITY",
+        "category":"Recommend movies to the user based on his past watch history",
+        "image":"cleaning.jpg",
+        "url":""
+      },
+      {
+        "title":"Cleaning Society Website",
+        "category":"A static website for booking online cleaning at door steps",
+        "image":"cleaning.jpg",
+        "url":"https://github.com/umedrajawat/cleaning-society-website"
+      },
+      {
+        "title":"Sentiment Analysis On English Hindi Mixed texts",
+        "category":"A React based resume website template",
+        "image":"cleaning.jpg",
+        "url":""
+      },
+      {
+        "title":"CHAT-BOT APPLICATION",
+        "category":"A chat Bot application for group chat",
+        "image":"cleaning.jpg",
+        "url":"https://github.com/umedrajawat/chat-bot-application"
+      }
+    ]
+  }
+}
