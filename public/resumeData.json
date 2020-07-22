@@ -9,7 +9,7 @@
     "github":"https://github.com/umedrajawat",
     "project":"https://github.com/umedrajawat",
     "address":{
-      "street":"Bull Temple ROAD",
+      "street":"Bull Temple Road",
       "city":"Bangalore",
       "state":"Karnataka",
       "zip": "560019"
@@ -114,7 +114,7 @@
       },
       {
         "title":"Sentiment Analysis On English Hindi Mixed texts",
-        "category":"A React based resume website template",
+        "category":"Helps in finding sentiments behind a review",
         "image":"recommendation.jpg",
         "url":""
       },
