@@ -1,12 +1,11 @@
 {
   "main": {
     "name":"Kumar Umed Rajawat",
-    "description":"I am an infosec enthusiast, a passionate FullStack Developer and an avid open source contributor.I have Worked extensively on react.js, node.js, AWS services, building REST APIs, Chrome APIs and building serverless architecture during my internship.",
+    "description":"I am a technology enthusiast, a passionate FullStack Developer, and an avid open source contributor. I have worked extensively on React.js, Node.js, AWS services, building REST APIs, Chrome APIs, and building serverless architecture during my internship.I am looking for opportunities in FullStack / Backend development.",
     "image":"profilepic.jpg",
     "bio":"",
     "contactmessage":"Contact me :",
     "email": "umedrajawat26@gmail.com",
-    "phone": "+91 8310241212",
     "github":"https://github.com/umedrajawat",
     "project":"https://github.com/umedrajawat",
     "address":{
@@ -98,13 +97,13 @@
       {
         "title":"IN-MEMORYCACHE",
         "category":"Implemented a cache for faster accessing of location",
-        "image":"cleaning.jpg",
+        "image":"cache.jpg",
         "url":"https://github.com/umedrajawat/inmemory-cache"
       },
       {
         "title":"MOVIE RECOMMENDATION SYSTEM WITH MODEL EXPLAINABILITY",
         "category":"Recommend movies to the user based on his past watch history",
-        "image":"cleaning.jpg",
+        "image":"movie.jpg",
         "url":""
       },
       {
@@ -116,13 +115,13 @@
       {
         "title":"Sentiment Analysis On English Hindi Mixed texts",
         "category":"A React based resume website template",
-        "image":"cleaning.jpg",
+        "image":"recommendation.jpg",
         "url":""
       },
       {
         "title":"CHAT-BOT APPLICATION",
         "category":"A chat Bot application for group chat",
-        "image":"cleaning.jpg",
+        "image":"chat.jpg",
         "url":"https://github.com/umedrajawat/chat-bot-application"
       }
     ]
