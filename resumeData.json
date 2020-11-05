@@ -83,7 +83,7 @@
         "name":"Chrome Extensions Development (Google Drive APIs, Chrome APIs) "
       },
       {
-        "name":"RDBMS"
+        "name":"RDBMS and NOSQL"
     
       },
       {
@@ -98,7 +98,7 @@
         "title":"IN-MEMORYCACHE",
         "category":"Implemented a cache for faster accessing of location",
         "image":"cache.jpg",
-        "url":"https://github.com/umedrajawat/inmemory-cache"
+        "url":"https://github.com/umedrajawat/InmemoryCache"
       },
       {
         "title":"MOVIE RECOMMENDATION SYSTEM WITH MODEL EXPLAINABILITY",
